@@ -1,0 +1,68 @@
+{
+  "id": "/RS_MF_m4_task/",
+  "name": "Notes App",
+  "short_name": "NotesApp",
+  "start_url": "/RS_MF_m4_task/",
+  "display": "standalone",
+  "background_color": "#242424",
+  "theme_color": "#242424",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-57x57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-60x60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-70x70.png",
+      "type": "image/png",
+      "sizes": "70x70"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-76x76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
+      "src": "/RS_MF_m4_task/assets/icons/notepad-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
